@@ -1,0 +1,190 @@
+{
+    "skills": [
+        { "name": "Python", "icon": "images/icons/python.png", "alt": "python" },
+        { "name": "HTML", "icon": "images/icons/html.png", "alt": "html" },
+        { "name": "CSS", "icon": "images/icons/css.png", "alt": "css" },
+        { "name": "JavaScript", "icon": "images/icons/javascript.png", "alt": "javascript" },
+        { "name": "SQL", "icon": "images/icons/database.png", "alt": "sql" },
+        { "name": "Photoshop", "icon": "images/icons/photoshop.png", "alt": "photoshop" },
+        { "name": "C Programming", "icon": "images/icons/c-programming.png", "alt": "c-programming" },
+        { "name": "Artificial Intelligence", "icon": "images/icons/ai.png", "alt": "ai" },
+        { "name": "Machine Learning", "icon": "images/icons/ml.png", "alt": "ml" },
+        { "name": "Deep Learning", "icon": "images/icons/dl.png", "alt": "dl" }
+    ],
+    "projects": [
+        {
+            "title": "Rodent Activity Monitoring System",
+            "description": "Our team developed and implemented a Rodent Activity Monitoring System for drug research, enabling real-time monitoring and analysis of rodent behavioral patterns.",
+            "technologies": [
+                { "name": "Python", "icon": "images/icons/python.png" },
+                { "name": "TensorFlow", "icon": "images/icons/tensorflow.png" },
+                { "name": "PyQt", "icon": "images/icons/python-qt.svg" }
+            ]
+        },
+        {
+            "title": "Markup",
+            "description": "An autonomous answer sheet evaluation system. Our team developed a descriptive answer sheet Evaluation model usind Deep Learning and Natural Language Processing.",
+            "technologies": [
+                { "name": "Python", "icon": "images/icons/python.png" },
+                { "name": "TensorFlow", "icon": "images/icons/tensorflow.png" },
+                { "name": "Ulralytics Yolov8", "icon": "images/icons/yolo.svg" },
+                { "name": "FastAPI", "icon": "images/icons/fastapi.png" },
+                { "name": "Gemini", "icon": "images/icons/gemini.png" },
+                { "name": "Vision API", "icon": "images/icons/vision-api.png" },
+                { "name": "HTML", "icon": "images/icons/html.png" },
+                { "name": "CSS", "icon": "images/icons/css.png" },
+                { "name": "JavaScript", "icon": "images/icons/javascript.png" }
+            ]
+        },
+        {
+            "title": "WebScout",
+            "description": "A chatbot that scrapes data from the official UK government site in real-time based on user queries.This tool leverages Retrieval-Augmented Generation (RAG).",
+            "technologies": [
+                { "name": "Python", "icon": "images/icons/python.png" },
+                { "name": "Google Gen AI", "icon": "images/icons/genai.svg" },
+                { "name": "Streamlit", "icon": "images/icons/streamlit.png" },
+                { "name": "BeautifulSoup", "icon": "images/icons/bs.png" }
+            ]
+        },
+        {
+            "title": "TypeStrom",
+            "description": "Developed a website platform for the randomized speed typing event conducted as a part of bodhi 2024. The website randomly select a keyboard layout from the predefined six layout.",
+            "technologies": [
+                { "name": "HTML", "icon": "images/icons/html.png" },
+                { "name": "CSS", "icon": "images/icons/css.png" },
+                { "name": "JavaScript", "icon": "images/icons/javascript.png" }
+            ]
+        },
+        {
+            "title": "Summarize 360",
+            "description": "This project leverages NLP techniques to provide comprehensive meeting summaries. It includes a feature to send emails with the summarized information to respective recipients.",
+            "technologies": [
+                { "name": "Python", "icon": "images/icons/python.png" },
+                { "name": "FastAPI", "icon": "images/icons/fastapi.png" },
+                { "name": "Google Gen AI", "icon": "images/icons/genai.svg" },
+                { "name": "HTML", "icon": "images/icons/html.png" },
+                { "name": "CSS", "icon": "images/icons/css.png" },
+                { "name": "JavaScript", "icon": "images/icons/javascript.png" }
+            ]
+        },
+        {
+            "title": "Nagaratha",
+            "description": "Developed a website platform for the Nagaratha Tech Fest event conducted as a part of bodhi 2022. This website is developed using HTML, PHP, and CSS and MySQL database.",
+            "technologies": [
+                { "name": "HTML", "icon": "images/icons/html.png" },
+                { "name": "CSS", "icon": "images/icons/css.png" },
+                { "name": "PHP", "icon": "images/icons/php.png" },
+                { "name": "MySQL", "icon": "images/icons/mysql.png" }
+            ]
+        },
+        {
+            "title": "Lock-Key",
+            "description": "Developed a website platform for the Lock-Key Tech Fest event conducted as a part of bodhi 2024.",
+            "technologies": [
+                { "name": "HTML", "icon": "images/icons/html.png" },
+                { "name": "CSS", "icon": "images/icons/css.png" },
+                { "name": "JavaScript", "icon": "images/icons/javascript.png" }
+            ]
+        },
+        {
+            "title": "Clueminati",
+            "description": "Developed a android app for the Clueminati Tech Fest event (Treasure Hunt) conducted as a part of bodhi 2023.",
+            "technologies": [
+                { "name": "Java", "icon": "images/icons/java.png" },
+                { "name": "Android Studio", "icon": "images/icons/android-studio.png" }
+            ]
+        }
+    ],
+    "educations": [
+        {
+            "title": "Bachelor of Technology in Artificial Intelligence and Data Science",
+            "subtitle": "Viswajyothi College of Engineering and Technology, Vazhakulam",
+            "year": "2020 - 2024",
+            "gradeType": "CGPA",
+            "grade": 7.6
+        },
+        {
+            "title": "Higher Secondary Education, (Computer Science)",
+            "subtitle": "MKM Higher Secondary School, Pirvom",
+            "year": "2018 - 2020",
+            "gradeType": "Percentage",
+            "grade": 74
+        },
+        {
+            "title": "SSLC",
+            "subtitle": "MTM Higher Secondary School, Pampakuda",
+            "year": "2017 - 2018",
+            "gradeType": "Percentage",
+            "grade": 86.9
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Workshop on RaspberryPi",
+            "text": "Innovation and Entrepreneurship Development Centre",
+            "area": "Workshop"
+        },
+        {
+            "title": "PCB Designing & Fabrication",
+            "text": "IEEE SPS, Kerala Chapter and IEEE SB VJCET",
+            "area": "Workshop"
+        },
+        {
+            "title": "Google AI Campus Fest",
+            "text": "Sahrdaya College of Engineering & Technology, Kerala and Google for Developers",
+            "area": "Workshop"
+        },
+        {
+            "title": "Generative AI",
+            "text": "IEEE SPS, Kerala Chapter and IEEE SB MBITS",
+            "area": "Workshop"
+        },
+        {
+            "title": "AI For Everyone",
+            "text": "COURSERA",
+            "area": "Certification"
+        },
+        {
+            "title": "Microsoft AI Classroom Series",
+            "text": "Microsoft",
+            "area": "Certification"
+        },
+        {
+            "title": "Exodia Event Coordinator",
+            "text": "Tech Fest Event Bodhi 2024",
+            "area": "Coordinator"
+        },
+        {
+            "title": "Cognitron Event Coordinator",
+            "text": "Tech Fest Event Bodhi 2023",
+            "area": "Coordinator"
+        },
+        {
+            "title": "Nagaratha Event Coordinator",
+            "text": "Tech Fest Event Bodhi 2022",
+            "area": "Coordinator"
+        }
+    ],
+    "contacts": [
+        {
+            "url": "https://github.com/alby-benny",
+            "icon": "images/icons/github.png",
+            "alt": "GitHub"
+        },
+        {
+            "url": "https://www.kaggle.com/albybenny06",
+            "icon": "images/icons/kaggle.png",
+            "alt": "Kaggle"
+        },
+        {
+            "url": "https://www.linkedin.com/in/alby-benny-7b1b3b1b3/",
+            "icon": "images/icons/linkedin.png",
+            "alt": "LinkedIn"
+        },
+        {
+            "url": "mailto:albybennyolakkattu@gmail.com",
+            "icon": "images/icons/mail.png",
+            "alt": "Email"
+        }
+    ]
+}
