@@ -674,6 +674,12 @@ body {
     .main-content-project-content-project-technologies-item img{
         height: 20px;
     }
+    .main-footer-content-text1{
+        font-size: 10pt;
+    }
+    .main-footer-content-text2{
+        font-size: 10pt;
+    }
 
 }
 @keyframes slideInFromRight {
