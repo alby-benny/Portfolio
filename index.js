@@ -145,6 +145,7 @@ function loadContacts(contacts) {
         listItem.className = "main-content-home-contact-list-item";
 
         const link = document.createElement("a");
+        link.target = "_blank";
         link.href = contact.url;
         link.className = "main-content-home-contact-list-item-link";
 
