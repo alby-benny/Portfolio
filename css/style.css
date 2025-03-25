@@ -650,9 +650,6 @@ body {
     .main-content-project-content-project-title{
         font-size: 14pt;
     }
-    .main-content-project-content-projects-list-item{
-        background-color:#9e00ff
-    }
     .main-content-project-content-projects{
         margin-top: 20px;
     }
@@ -674,7 +671,9 @@ body {
     .main-content-edu-left-gif-image{
         margin-top: -40px;
     }
-    
+    .main-content-project-content-project-technologies-item img{
+        height: 20px;
+    }
 
 }
 @keyframes slideInFromRight {
